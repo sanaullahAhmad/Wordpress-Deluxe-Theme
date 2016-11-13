@@ -1,0 +1,30 @@
+{
+  "name": "Deluxe",
+  "version": "3",
+  "homepage": "http://peekinternational.com/",
+  "authors": [
+    "toseef <toseef3@gmail.com>"
+  ],
+  "description": "Deluxe WordPress theme based on Bootstrap.",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "Deluxe",
+    "bootstrap",
+    "WordPress"
+  ],
+  "license": "GNU",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "modernizer": "~2.8.2",
+    "font-awesome": "~4.2.0",
+    "bootstrap": "~3.3.1"
+  }
+}
